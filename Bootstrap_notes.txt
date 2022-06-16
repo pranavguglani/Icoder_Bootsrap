@@ -1,0 +1,7 @@
+use source unsplash to get images.
+
+div.container + enter gives you <div class="container"> 
+
+alt + click gives multiple cursor
+
+Bootstrap container system and also the 12 grid system is imp bro.
